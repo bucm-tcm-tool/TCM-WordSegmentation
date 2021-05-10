@@ -14,16 +14,16 @@ Reference the example.py
 参考example.py
 
 ## Results
-## Example
-Input：使用中医经典方剂桂枝汤治疗营卫不和。
+ ### Example
+ Input：使用中医经典方剂桂枝汤治疗营卫不和。
 
-### Jieba
-Output : 使用 中医 经典 方剂 桂枝汤 治疗 营卫 不 和 。
-### LTP
-Output : 使用  中医  经典  方剂  桂枝汤  治疗  营  卫  不和  。
+ ### Jieba
+ Output : 使用 中医 经典 方剂 桂枝汤 治疗 营卫 不 和 。
+ ### LTP
+ Output : 使用  中医  经典  方剂  桂枝汤  治疗  营  卫  不和  。
 
-### TCM-WordSegmentation
-Output : 使用 中医  经典方剂  桂枝汤 治疗 营卫不和 。
+ ### TCM-WordSegmentation
+ Output : 使用 中医  经典方剂  桂枝汤 治疗 营卫不和 。
 
 ## cite info:
 Liu S, Zhou L, Li C, et al. Research on Modeling of Traditional Chinese Medicine Word Segmentation Model Based on SentencePiece[J/OL].World Chinese Medicine:1-6[2021-05-09].http://kns.cnki.net/kcms/detail/11.5529.R.20210429.1546.048.html.
